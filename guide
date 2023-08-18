@@ -1,0 +1,15 @@
+### importacion de modulos
++ elimina le campo "type" del archivo package.json y dejalo por defecto
+
+### Instalar dependencias de express para TS :
++ npm install @types/express@latest -D
+
+### Install nodemom para TS:
+1. Ejecuta el comando: npm install ts-node nodemon --save-dev
+
+### Swagger Instalacion de dependencias:
+1. npm i swagger-ui-express
+2. npm i swagger-jsdoc -S
+### TS dependendencias:
+1. npm i @types/swagger-ui-express 
+2. npm i @types/swagger-jsdoc -
